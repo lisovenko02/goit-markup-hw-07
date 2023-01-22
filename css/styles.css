@@ -377,7 +377,7 @@ body {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-mobile.webp);
+            url(./images/people-office-mobile.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -391,7 +391,7 @@ screen and (min-resolution: 2dppx) {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-@2-mobile.webp);
+            url(./images/people-office-@2-mobile.webp);
     }
 }
 
@@ -400,7 +400,7 @@ screen and (min-resolution: 2dppx) {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-tablet.webp);
+            url(./images/people-office-tablet.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -414,7 +414,7 @@ screen and (min-width:768px) and (min-resolution: 2dppx) {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-@2-tablet.webp);
+            url(./images/people-office-@2-tablet.webp);
     }
 }
 
@@ -423,7 +423,7 @@ screen and (min-width:768px) and (min-resolution: 2dppx) {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-desktop.webp);
+            url(./images/people-office-desktop.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -437,7 +437,7 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
         background-image: linear-gradient(to right,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-@2-desktop.webp);
+            url(./images/people-office-@2-desktop.webp);
     }
 }
 /* Advantage section */
