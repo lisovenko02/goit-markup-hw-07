@@ -143,7 +143,6 @@ body {
         justify-content: space-between;
     }
     .container {  
-        width: auto;
         margin-left: auto;
         margin-right: auto;
     }
@@ -466,9 +465,6 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
         letter-spacing: 0.02em;
         text-transform: capitalize;
     }
-    .advantage-list-text {
-    
-    }
     .advantage-list-items:not(:last-child){
         margin-bottom: 72px;
     }
@@ -604,9 +600,7 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 }
 
 @media screen and (max-width: 767px) {
-    .members-list-item:not(:last-child) {
-        margin-bottom: 72px;
-    }
+  
     .members-list {
         align-items: center;
         flex-direction: column;
